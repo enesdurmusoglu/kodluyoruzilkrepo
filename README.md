@@ -22,7 +22,9 @@ code .'''
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-(MIT)
+
+[Google gitmek için tıklayınız] (http://google.com)
+
 
 
 
