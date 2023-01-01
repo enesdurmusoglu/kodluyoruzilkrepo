@@ -7,8 +7,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 ## Installatıon
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. (https://github.com/enesdurmusoglu/kodluyoruzilkrepo/blob/main/README.md)
 
-"""
-https://github.com/enesdurmusoglu/kodluyoruzilkrepo
-"""
+
