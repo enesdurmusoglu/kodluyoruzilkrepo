@@ -23,7 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[Google gitmek için tıklayınız] (http://google.com)
+(https://choosealicense.com/licenses/mit/)
 
 
 
